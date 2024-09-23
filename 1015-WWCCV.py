@@ -4,7 +4,7 @@
 # anything that starts with a pound sign (hashtag if you are under 30) is a comment. The computer ignores these.
 
 # Let's tell the world whose awful credit card validator this is.
-print ("sky This Credit Card Validator")
+print ("Skylar Mitchell Modified This Credit Card Validator")
 
 # Let's get the card number from the user
 card_number = input("Enter your 16-digit credit card number: ")
